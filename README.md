@@ -28,8 +28,10 @@ Features in current version:
 Coming soon:
 server version release
 * with server application you can easy all log and picture and run command!!!!
-* 
+
+
 contact me :mahdiasadi@yahoo.com
+
 http://www.persiansoftware.org
 http://www.facebook.com/mahdiasadi
 https://pkl.codeplex.com
